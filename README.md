@@ -45,6 +45,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Seabra06/Seabra06/output/snake.svg" alt="Snake animation" />
-
-###
